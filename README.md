@@ -21,6 +21,7 @@ Cada pasta deste repositório contém as amostras sonoras geradas para uma dessa
 ## 📁 Organização
 
 output/
+
 ├── action_tense/
 
 ├── adventure/
@@ -34,5 +35,7 @@ output/
 ├── creepy_mystery/
 
 ├── heroic/
+
 ├── melancholic/
+
 └── peaceful/
