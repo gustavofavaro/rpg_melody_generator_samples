@@ -22,11 +22,17 @@ Cada pasta deste repositório contém as amostras sonoras geradas para uma dessa
 
 output/
 ├── action_tense/
+
 ├── adventure/
+
 ├── battle/
+
 ├── castle/
+
 ├── comedic/
+
 ├── creepy_mystery/
+
 ├── heroic/
 ├── melancholic/
 └── peaceful/
